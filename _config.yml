@@ -4,8 +4,8 @@
 
 title: Teun # the website title (if blank, full name will be used instead)
 first_name: Teun
-middle_name: 
-last_name: 
+middle_name: # None
+last_name: # None
 email: teun@teun.lol
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace website. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -39,7 +39,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
